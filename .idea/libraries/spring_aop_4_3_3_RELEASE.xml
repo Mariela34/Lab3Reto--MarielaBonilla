@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spring-aop-4.3.3.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-aop-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-beans-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../commons-logging-1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-context-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-aspects-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-core-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-expression-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-jdbc-4.3.3.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../spring-framework-4.3.3.RELEASE/libs/spring-instrument-4.3.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
